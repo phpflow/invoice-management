@@ -1,0 +1,9 @@
+.form-inline .form-group{
+margin-bottom: 20px;
+float: right;
+}
+
+.form-inline{
+  display: block;
+  }
+  
